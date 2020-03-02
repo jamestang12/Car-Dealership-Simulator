@@ -4,7 +4,7 @@ A Car dealership simulator that build on Java
 ## Input data
 This program able to read from text file and store the data in the program using hash map
 
-##Commands input
+## Commands input
 SALES -- Display all the transaction in the simulator
 ADD -- This commands is for user to input car into the simulator, user can either input data by hand or using a text file
 L -- Display all the car in the simulator
